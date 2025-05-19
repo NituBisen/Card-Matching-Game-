@@ -1,0 +1,33 @@
+
+body {
+    background-color: bisque;
+}
+#tit {
+    text-align:left;
+    font-size:30px;
+    color: brown;
+}
+.card {
+    width: 80px;
+    height: 100px;
+    background-color: rgb(187, 130, 130);
+    display: inline-block;
+    margin: 10px;
+    font-size: 24px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+}
+button {
+    background-color: rgb(125, 11, 63);
+    color : white;
+}
+
+.flipped {
+    background-color: rgb(234, 211, 211);
+}
+
+.matched {
+    background-color: green;
+    cursor: default;
+}
